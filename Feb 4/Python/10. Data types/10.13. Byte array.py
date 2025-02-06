@@ -1,0 +1,7 @@
+n=bytearray(b'Irfan')
+print(n)
+print(type(n))
+print("This is a bytearray data type, unlike byte data type the bytearray is mutable\n")
+n.append(75)
+print(n)
+print("Here the ASCII value of K gets appended to the bytearray\n")

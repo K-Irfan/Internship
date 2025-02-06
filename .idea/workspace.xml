@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83cb799e-a1eb-4816-b5f6-2068bbc55fe0" name="Changes" comment="" />
+    <list default="true" id="59d5c9ce-1104-4555-a4de-86db6ee2495b" name="Changes" comment="Organising the branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,18 +29,21 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2sdPeXvexE37R70AzcdSgE7U7IX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;06022025&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/khizhr/PycharmProjects/Internship&quot;
+  </component
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "04022025",
+    "last_opened_file_path": "/Users/khizhr/PycharmProjects/Internship"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,12 +54,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="83cb799e-a1eb-4816-b5f6-2068bbc55fe0" name="Changes" comment="" />
+      <changelist id="59d5c9ce-1104-4555-a4de-86db6ee2495b" name="Changes" comment="Organising the branch" />
       <created>1738782573632</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738782573632</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Organising the branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organising the branch" />
   </component>
 </project>
