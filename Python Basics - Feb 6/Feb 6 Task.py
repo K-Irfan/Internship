@@ -26,14 +26,16 @@ def creatinglist():
     return numbers
 
 numbers=creatinglist()
-print(f"{creatinglist()}\n")
+print(f"{numbers}\n")
 
 #getting the even values using list comprehension
+#list comprehension gives the shortest syntax for looping in lists
 print("Getting the even values from the list:")
-print(f"{numbers[1::2]}\n")
+even=[x for x in numbers if x%2==0]
+print(even)
 
 #swapping two numbers using list unpacking
-print("Swapping two values:")
+print("\nSwapping two values:")
 a=5
 b=10
 list=[a,b]
