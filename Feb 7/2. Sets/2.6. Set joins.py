@@ -1,5 +1,3 @@
-from xmlrpc.client import Boolean
-
 joins=['union()','update()','intersection()','difference()','symmetric_difference()']
 print("The types of joins in sets are")
 for i,no in enumerate(joins,1):
